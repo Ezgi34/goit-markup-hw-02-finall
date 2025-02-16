@@ -6,7 +6,6 @@ body {
     padding: 0;
 }
 
-/* Header (Üst Menü) */
 header {
     display: flex;
     justify-content: space-between;
@@ -39,7 +38,7 @@ nav a:focus {
     color: #2196F3;
 }
 
-/* İletişim Bilgileri */
+
 address ul {
     list-style: none;
     padding: 0;
@@ -62,7 +61,7 @@ address a:focus {
     color: #2196F3;
 }
 
-/* Ana Banner Bölümü */
+
 .studio {
     text-align: center;
     background-color: #2F303A;
@@ -93,7 +92,7 @@ button:focus {
     background-color: #1976D2;
 }
 
-/* Hizmetler Bölümü */
+
 h2 {
     text-align: center;
     font-size: 28px;
@@ -125,7 +124,7 @@ ul {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Takım Üyeleri */
+
 .team h3 {
     font-size: 20px;
     font-weight: 700;
@@ -134,35 +133,32 @@ ul {
     transition: color 0.3s;
 }
 
-/* C4 KURALI: Başlık rengi hover/focus ile değişmeli */
+
 .team h3:hover,
 .team h3:focus {
     color: #2196F3;
 }
 
-/* Portföy */
 .portfolio img {
     max-width: 100%;
     border-radius: 5px;
 }
 
-/* Footer (Alt Bilgi) */
-.footer {
-    background-color: #2F303A;
-    color: #FFFFFF;
+/footer {
+    background-color: #2e2f42;
+    color: #F4F4FD;
     text-align: center;
-    padding: 40px 0;
+    padding: 40px 20px;
 }
 
-.footer .logo {
-    font-size: 24px;
-    font-weight: 700;
-    text-decoration: none;
-    color: #FFFFFF;
+footer .logo {
+    display: block;
+    margin-bottom: 20px;
 }
 
-.footer p {
-    font-size: 14px;
-    margin-top: 10px;
-    color: #757575;
+
+footer p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
