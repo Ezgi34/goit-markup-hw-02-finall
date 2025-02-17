@@ -3,7 +3,7 @@ body {
     color: #434455;
     background-color: #ffffff;
 }
-.studio-web{
+.effective-solutions { 
     background-color: #2e2f42;
 }
 .post-title {
@@ -23,12 +23,12 @@ body {
     letter-spacing: 0.04em;
     font-family: "Roboto" , sans-serif;
 }
-.button-style:hover, .button-style:focus{
+.button-style:hover, .button-style:focus { 
     background-color: #404bbf;
     color: #ffffff;
     cursor: pointer;
 }
-.header-two{
+.header-two {
     color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
@@ -44,7 +44,7 @@ body {
     color: #2e2f42;
     line-height: 1.2;
 }
-.body-text{
+.body-text {
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
@@ -57,10 +57,10 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.logo-web:hover, .logo-web:focus{
+.logo-web:hover, .logo-web:focus {
     color: #404bbf;   
 }
-.logo-link{
+.logo-link { 
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -69,10 +69,10 @@ body {
     font-family: "Raleway" , sans-serif;
     text-transform: uppercase;
 }
-.logo-studio{
+.logo-studio {
     color: #2e2f42;
 }
-.contact-info{
+.contact-info {
     font-style: normal;
 }
 .mailto-info {
@@ -84,7 +84,7 @@ body {
 .mailto-info:hover , .mailto-info:focus {
     color: #404bbf;
 }
-.team-section {
+.our-portfolio {
     background-color: #f4f4f4;
 }
 .logo-studios {
