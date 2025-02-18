@@ -85,10 +85,10 @@ body {
     color: #404bbf;
 }
 .our-portfolio {
-    background-color: #f4f4f4;
+    background-color: #f4f4fd;
 }
 .logo-studios {
-    color: #ffffff;
+    color: #f4f4fd;
 }
 .logo-and {
     font-family: "Raleway" , sans-serif;
@@ -110,4 +110,10 @@ body {
 }
 .footer-part {
     background-color: #2e2f42;
+}
+.our-portfolio {
+    background-color: #ffffff;
+}
+.footer-text{
+    color: #F4F4FD;
 }
